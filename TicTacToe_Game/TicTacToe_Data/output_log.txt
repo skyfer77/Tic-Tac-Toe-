@@ -1,0 +1,131 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     973 MB
+    Driver:   10.18.10.4425
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\SERGO_TICTACTOE\TicTacToe_Game\TicTacToe_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\SERGO_TICTACTOE\TicTacToe_Game\TicTacToe_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\SERGO_TICTACTOE\TicTacToe_Game\TicTacToe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\SERGO_TICTACTOE\TicTacToe_Game\TicTacToe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\SERGO_TICTACTOE\TicTacToe_Game\TicTacToe_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\SERGO_TICTACTOE\TicTacToe_Game\TicTacToe_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\SERGO_TICTACTOE\TicTacToe_Game\TicTacToe_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\SERGO_TICTACTOE\TicTacToe_Game\TicTacToe_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\SERGO_TICTACTOE\TicTacToe_Game\TicTacToe_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\SERGO_TICTACTOE\TicTacToe_Game\TicTacToe_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\SERGO_TICTACTOE\TicTacToe_Game\TicTacToe_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\SERGO_TICTACTOE\TicTacToe_Game\TicTacToe_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.311 seconds
+Platform assembly: D:\SERGO_TICTACTOE\TicTacToe_Game\TicTacToe_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\SERGO_TICTACTOE\TicTacToe_Game\TicTacToe_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 8.129452 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.277745 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 440.
+Total: 0.610618 ms (FindLiveObjects: 0.098776 ms CreateObjectMapping: 0.039227 ms MarkObjects: 0.436223 ms  DeleteObjects: 0.034500 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Turn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Turn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Turn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Turn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Turn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Turn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Turn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.795411 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 313.
+Total: 0.395106 ms (FindLiveObjects: 0.066638 ms CreateObjectMapping: 0.034973 ms MarkObjects: 0.255684 ms  DeleteObjects: 0.036391 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.614399 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 440.
+Total: 0.572336 ms (FindLiveObjects: 0.078926 ms CreateObjectMapping: 0.033083 ms MarkObjects: 0.420627 ms  DeleteObjects: 0.038281 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Turn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Turn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Turn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Turn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Turn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Turn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Turn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.856378 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 313.
+Total: 0.483012 ms (FindLiveObjects: 0.066166 ms CreateObjectMapping: 0.050569 ms MarkObjects: 0.318069 ms  DeleteObjects: 0.046788 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.536890 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 440.
+Total: 0.452292 ms (FindLiveObjects: 0.068056 ms CreateObjectMapping: 0.032610 ms MarkObjects: 0.323741 ms  DeleteObjects: 0.026939 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: dbc -> priority: 1 
